@@ -8,4 +8,6 @@ The plug-in consists of four tools:
 Each of the above tools requires the same coordinate system for the modified layers.
 Each of the tools is described below:
 
-Cut elements
+- Cut elements
+
+<img src="https://github.com/abocianowski/Geofabryka-Toolbox-/tree/master/how_to/1.jpg?raw=true" alt="1.gif">
