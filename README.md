@@ -46,3 +46,5 @@ The fourth click completes the buffer edition. The buffer will be cut to existin
 The tool enables filling empty spaces between polygon and line objects. You can set the configuration of the boundary layers in the settings. Depending on your choice, they can be polygons or lines, layers visible or not visible in the map window.
 <img src="https://github.com/abocianowski/Geofabryka-Toolbox-/blob/master/how_to/9.jpg?raw=true" alt="9.jpg">
 <img src="https://github.com/abocianowski/Geofabryka-Toolbox-/blob/master/how_to/10.jpg?raw=true" alt="10.jpg">
+
+### - Attributes join by line
