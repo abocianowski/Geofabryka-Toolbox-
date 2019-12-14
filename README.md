@@ -39,3 +39,4 @@ Next click determines the buffer width based on the line. The buffer follows the
 
 The fourth click completes the buffer edition. The buffer will be cut to existing objects. At this point you can choose the target layer from the context menu.
 <img src="https://github.com/abocianowski/Geofabryka-Toolbox-/blob/master/how_to/7.jpg?raw=true" alt="7.jpg">
+<img src="https://github.com/abocianowski/Geofabryka-Toolbox-/blob/master/how_to/8.jpg?raw=true" alt="8.jpg">
