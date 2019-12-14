@@ -1,22 +1,23 @@
 [general]
 name=Geofabryka Toolbox
 qgisMinimumVersion=3.8.0
-description=The 'Geofabryka Toolbox' enables simple digitization of objects, trimming, filling and buffering.
+description=The 'Geofabryka Toolbox' enables simple digitization of objects, trimming, filling and buffering. One of them you can move attributes of objects using lines.
 version=0.4
 author=Adrian Bocianowski
 email=adrian@bocianowski.com.pl
 
 about:
-    The package consists of three tools that allow:
+    The package consists of four tools that allow:
     - creating one side buffers from the polygon objects,
     - filling empty spaces using polygons or lines,
-    - cutting and aggregation cuted elements by modifying the source layers and copying to the target layer.
+    - cutting and aggregation cuted elements by modifying the source layers and copying to the target layer,
+    - copy attributes from the source layer to the target layer by using a line.
 
     At the plug-in design stage, it was assumed that the edited layers would be in the same coordinate system. Tool parameters such as distance will be determined by coordinate system. The plugin includes topological editing.
     The plug-in created thanks to the financial support of <a href="http://geofabryka.pl/">Geofabryka Sp. z o.o.</a>
     
-tracker=
-repository=
+tracker=https://github.com/abocianowski/Geofabryka-Toolbox-/issues
+repository=https://github.com/abocianowski/Geofabryka-Toolbox-
 
 changelog:
     version=0.4:
@@ -32,7 +33,7 @@ changelog:
 
 tags=
 
-homepage=
+homepage=https://github.com/abocianowski/ObliczWysokosc
 category=Plugins
 icon=icons/geofabryka.png
 experimental=False
