@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/plugins/GeofabrykaToolbox/" >
+        <file>icons/cut.svg</file>
+    </qresource>
+    <qresource prefix="/plugins/GeofabrykaToolbox/" >
+        <file>icons/settings.svg</file>
+    </qresource>
+    <qresource prefix="/plugins/GeofabrykaToolbox/" >
+        <file>icons/selectAll.svg</file>
+    </qresource>
+    <qresource prefix="/plugins/GeofabrykaToolbox/" >
+        <file>icons/hideAll.svg</file>
+    </qresource>
+    <qresource prefix="/plugins/GeofabrykaToolbox/" >
+        <file>icons/paint.svg</file>
+    </qresource>
+    <qresource prefix="/plugins/GeofabrykaToolbox/" >
+        <file>icons/buffer.svg</file>
+    </qresource>
+    <qresource prefix="/plugins/GeofabrykaToolbox/" >
+        <file>icons/geofabryka.png</file>
+    </qresource>
+    <qresource prefix="/plugins/GeofabrykaToolbox/" >
+        <file>icons/AttributesJoinByLine.png</file>
+    </qresource>
+</RCC>

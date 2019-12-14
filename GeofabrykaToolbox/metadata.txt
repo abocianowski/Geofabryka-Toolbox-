@@ -1,0 +1,40 @@
+[general]
+name=Geofabryka Toolbox
+qgisMinimumVersion=3.8.0
+description=The 'Geofabryka Toolbox' enables simple digitization of objects, trimming, filling and buffering.
+version=0.4
+author=Adrian Bocianowski
+email=adrian@bocianowski.com.pl
+
+about:
+    The package consists of three tools that allow:
+    - creating one side buffers from the polygon objects,
+    - filling empty spaces using polygons or lines,
+    - cutting and aggregation cuted elements by modifying the source layers and copying to the target layer.
+
+    At the plug-in design stage, it was assumed that the edited layers would be in the same coordinate system. Tool parameters such as distance will be determined by coordinate system. The plugin includes topological editing.
+    The plug-in created thanks to the financial support of <a href="http://geofabryka.pl/">Geofabryka Sp. z o.o.</a>
+    
+tracker=
+repository=
+
+changelog:
+    version=0.4:
+        - integrate Attribute Join By Line with Geofabryka Toolbox
+        - bug fix with broken 'Canel' button in 'Attribute Join By Line' tool
+    version=0.3:
+        - add feature form after create geoemtry for paint tools,
+        - include deafult falues in feature form for paint and buffer tools
+    version=0.2:
+        - repair bug with convert geometry collection to subclass - line and polygon layers checked together
+    version=0.1:
+        - plugin create
+
+tags=
+
+homepage=
+category=Plugins
+icon=icons/geofabryka.png
+experimental=False
+deprecated=False
+
