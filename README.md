@@ -10,4 +10,4 @@ Each of the tools is described below:
 
 - Cut elements
 
-<img src="https://github.com/abocianowski/Geofabryka-Toolbox-/tree/master/how_to/1.jpg?raw=true" alt="1.gif">
+<img src="https://github.com/abocianowski/Geofabryka-Toolbox-/blob/master/how_to/1.jpg?raw=true" alt="1.jpg">
