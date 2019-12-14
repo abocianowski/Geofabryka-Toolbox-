@@ -37,5 +37,5 @@ The next two clicks specify the start and end point of the buffered line. Clicks
 Next click determines the buffer width based on the line. The buffer follows the buffer - left or right edge of the object. The tolerance parameter, available in the settings, determines the buffer width jump, expressed in map unit.
 <img src="https://github.com/abocianowski/Geofabryka-Toolbox-/blob/master/how_to/6.jpg?raw=true" alt="6.jpg">
 
-The fourth click completes the buffer edition. The buffer will be cut to existing objects.
+The fourth click completes the buffer edition. The buffer will be cut to existing objects. At this point you can choose the target layer from the context menu.
 <img src="https://github.com/abocianowski/Geofabryka-Toolbox-/blob/master/how_to/7.jpg?raw=true" alt="7.jpg">
