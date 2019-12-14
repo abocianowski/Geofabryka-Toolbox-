@@ -4,3 +4,8 @@ The plug-in consists of four tools:
 - Add Buffer,
 - Fill the empty spaces,
 - Attributes join by line
+
+Each of the above tools requires the same coordinate system for the modified layers.
+Each of the tools is described below:
+
+Cut elements
