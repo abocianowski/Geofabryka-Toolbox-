@@ -33,7 +33,7 @@ changelog:
 
 tags=
 
-homepage=https://github.com/abocianowski/ObliczWysokosc
+homepage=https://github.com/abocianowski/Geofabryka-Toolbox-
 category=Plugins
 icon=icons/geofabryka.png
 experimental=False
