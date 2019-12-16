@@ -2,7 +2,7 @@
 name=Geofabryka Toolbox
 qgisMinimumVersion=3.8.0
 description=The 'Geofabryka Toolbox' enables simple digitization of objects, trimming, filling and buffering. One of them you can move attributes of objects using lines.
-version=0.4
+version=0.5
 author=Adrian Bocianowski
 email=adrian@bocianowski.com.pl
 
@@ -20,6 +20,8 @@ tracker=https://github.com/abocianowski/Geofabryka-Toolbox-/issues
 repository=https://github.com/abocianowski/Geofabryka-Toolbox-
 
 changelog:
+    version=0.5:
+        - update links in about tabs
     version=0.4:
         - integrate Attribute Join By Line with Geofabryka Toolbox
         - bug fix with broken 'Canel' button in 'Attribute Join By Line' tool
